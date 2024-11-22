@@ -66,6 +66,9 @@ The advancements in artificial intelligence (AI) and computer vision have enable
 ### Observations
 - Model performs well in detecting violent actions.
 - Challenges include occlusion and poor lighting conditions.
+- ![Image Description](1.png)
+- ![Image Description](2.png)
+
 
 ## Uses / Applications
 - **Public Surveillance:** Detecting violent incidents in real-time at events, transport hubs, etc.
