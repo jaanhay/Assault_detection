@@ -1,10 +1,5 @@
 # Assault Detection using Computer Vision
 
-## Submitted by:  
-Active Learning Members  
-Department of Computer Engineering and Technology  
-Dr. Vishwanath Karad MIT World Peace University Pune,  
-2023-2024
 
 ## Abstract
 The advancements in artificial intelligence (AI) and computer vision have enabled numerous real-world applications, including security and surveillance systems. This project introduces a robust system for detecting physical assault in surveillance footage by leveraging a combination of YOLO-Pose for skeletal pose estimation and a deep learning classifier based on ResNet50. The model was trained on 468 labeled RGB images with corresponding skeletal data to distinguish assault scenarios from non-assault scenarios effectively. This system aims to provide real-time detection capabilities to enhance public safety and support law enforcement.
